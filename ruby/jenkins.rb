@@ -1,4 +1,4 @@
-cmd = "xcodebuild -target BrowseOverflowTests -sdk iphonesimulator clean build RUN_UNIT_TEST_WITH_IOS_SIM=YES > ./ruby/buildlog.txt 2> ./ruby/testlog.txt"
+cmd = "xcodebuild -target BrowseOverflowTests -sdk iphonesimulator RUN_UNIT_TEST_WITH_IOS_SIM=YES clean build > ./ruby/buildlog.txt 2> ./ruby/testlog.txt"
 system(cmd)
 
 result = ""
