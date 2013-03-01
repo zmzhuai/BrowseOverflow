@@ -120,7 +120,7 @@ static NSString *emptyQuestionsArray = @"{ \"questions\": [] }";
 }
 
 - (void)testBuildingQuestionBodyWithNoQuestionCannotBeTried {
-//    STAssertThrows([questionBuilder fillInDetailsForQuestion: nil fromJSON: questionJSON], @"No reason to expect that a nil question is passed");
+    STAssertThrows([questionBuilder fillInDetailsForQuestion: nil fromJSON: questionJSON], @"No reason to expect that a nil question is passed");
 }
 
 - (void)testNonJSONDataDoesNotCauseABodyToBeAddedToAQuestion {
