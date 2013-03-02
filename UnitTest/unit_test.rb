@@ -1,8 +1,8 @@
-cmd = "xcodebuild -scheme BrowseOverflowTests -sdk iphonesimulator clean build RUN_UNIT_TEST_WITH_IOS_SIM=YES > ./ruby/buildlog.txt 2> ./ruby/testlog.txt"
+cmd = "xcodebuild -scheme BrowseOverflowTests -sdk iphonesimulator clean build RUN_UNIT_TEST_WITH_IOS_SIM=YES"
 system(cmd)
 
 result = ""
-File.open("./ruby/buildlog.txt", "r") do |f|
+File.open("./UnitTest/unit_test.log", "r") do |f|
 	result = f.read
 end
 
