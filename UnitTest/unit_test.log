@@ -1,0 +1,455 @@
+objc[3494]: Class BrowseOverflowAppDelegate is implemented in both /Users/mtt0123/Library/Application Support/iPhone Simulator/6.1/Applications/A4B9CCEC-E78D-4358-ABC3-448030E5CC1B/BrowseOverflow.app/BrowseOverflow and /Users/mtt0123/Library/Developer/Xcode/DerivedData/BrowseOverflow-ahgirjsvxpnhtectyorcrgptvaxm/Build/Products/Debug-iphonesimulator/BrowseOverflowTests.octest/BrowseOverflowTests. One of the two will be used. Which one is undefined.
+objc[3494]: Class Topic is implemented in both /Users/mtt0123/Library/Application Support/iPhone Simulator/6.1/Applications/A4B9CCEC-E78D-4358-ABC3-448030E5CC1B/BrowseOverflow.app/BrowseOverflow and /Users/mtt0123/Library/Developer/Xcode/DerivedData/BrowseOverflow-ahgirjsvxpnhtectyorcrgptvaxm/Build/Products/Debug-iphonesimulator/BrowseOverflowTests.octest/BrowseOverflowTests. One of the two will be used. Which one is undefined.
+objc[3494]: Class Question is implemented in both /Users/mtt0123/Library/Application Support/iPhone Simulator/6.1/Applications/A4B9CCEC-E78D-4358-ABC3-448030E5CC1B/BrowseOverflow.app/BrowseOverflow and /Users/mtt0123/Library/Developer/Xcode/DerivedData/BrowseOverflow-ahgirjsvxpnhtectyorcrgptvaxm/Build/Products/Debug-iphonesimulator/BrowseOverflowTests.octest/BrowseOverflowTests. One of the two will be used. Which one is undefined.
+objc[3494]: Class Person is implemented in both /Users/mtt0123/Library/Application Support/iPhone Simulator/6.1/Applications/A4B9CCEC-E78D-4358-ABC3-448030E5CC1B/BrowseOverflow.app/BrowseOverflow and /Users/mtt0123/Library/Developer/Xcode/DerivedData/BrowseOverflow-ahgirjsvxpnhtectyorcrgptvaxm/Build/Products/Debug-iphonesimulator/BrowseOverflowTests.octest/BrowseOverflowTests. One of the two will be used. Which one is undefined.
+objc[3494]: Class Answer is implemented in both /Users/mtt0123/Library/Application Support/iPhone Simulator/6.1/Applications/A4B9CCEC-E78D-4358-ABC3-448030E5CC1B/BrowseOverflow.app/BrowseOverflow and /Users/mtt0123/Library/Developer/Xcode/DerivedData/BrowseOverflow-ahgirjsvxpnhtectyorcrgptvaxm/Build/Products/Debug-iphonesimulator/BrowseOverflowTests.octest/BrowseOverflowTests. One of the two will be used. Which one is undefined.
+objc[3494]: Class StackOverflowManager is implemented in both /Users/mtt0123/Library/Application Support/iPhone Simulator/6.1/Applications/A4B9CCEC-E78D-4358-ABC3-448030E5CC1B/BrowseOverflow.app/BrowseOverflow and /Users/mtt0123/Library/Developer/Xcode/DerivedData/BrowseOverflow-ahgirjsvxpnhtectyorcrgptvaxm/Build/Products/Debug-iphonesimulator/BrowseOverflowTests.octest/BrowseOverflowTests. One of the two will be used. Which one is undefined.
+objc[3494]: Class StackOverflowCommunicator is implemented in both /Users/mtt0123/Library/Application Support/iPhone Simulator/6.1/Applications/A4B9CCEC-E78D-4358-ABC3-448030E5CC1B/BrowseOverflow.app/BrowseOverflow and /Users/mtt0123/Library/Developer/Xcode/DerivedData/BrowseOverflow-ahgirjsvxpnhtectyorcrgptvaxm/Build/Products/Debug-iphonesimulator/BrowseOverflowTests.octest/BrowseOverflowTests. One of the two will be used. Which one is undefined.
+objc[3494]: Class QuestionBuilder is implemented in both /Users/mtt0123/Library/Application Support/iPhone Simulator/6.1/Applications/A4B9CCEC-E78D-4358-ABC3-448030E5CC1B/BrowseOverflow.app/BrowseOverflow and /Users/mtt0123/Library/Developer/Xcode/DerivedData/BrowseOverflow-ahgirjsvxpnhtectyorcrgptvaxm/Build/Products/Debug-iphonesimulator/BrowseOverflowTests.octest/BrowseOverflowTests. One of the two will be used. Which one is undefined.
+objc[3494]: Class AnswerBuilder is implemented in both /Users/mtt0123/Library/Application Support/iPhone Simulator/6.1/Applications/A4B9CCEC-E78D-4358-ABC3-448030E5CC1B/BrowseOverflow.app/BrowseOverflow and /Users/mtt0123/Library/Developer/Xcode/DerivedData/BrowseOverflow-ahgirjsvxpnhtectyorcrgptvaxm/Build/Products/Debug-iphonesimulator/BrowseOverflowTests.octest/BrowseOverflowTests. One of the two will be used. Which one is undefined.
+objc[3494]: Class UserBuilder is implemented in both /Users/mtt0123/Library/Application Support/iPhone Simulator/6.1/Applications/A4B9CCEC-E78D-4358-ABC3-448030E5CC1B/BrowseOverflow.app/BrowseOverflow and /Users/mtt0123/Library/Developer/Xcode/DerivedData/BrowseOverflow-ahgirjsvxpnhtectyorcrgptvaxm/Build/Products/Debug-iphonesimulator/BrowseOverflowTests.octest/BrowseOverflowTests. One of the two will be used. Which one is undefined.
+objc[3494]: Class GravatarCommunicator is implemented in both /Users/mtt0123/Library/Application Support/iPhone Simulator/6.1/Applications/A4B9CCEC-E78D-4358-ABC3-448030E5CC1B/BrowseOverflow.app/BrowseOverflow and /Users/mtt0123/Library/Developer/Xcode/DerivedData/BrowseOverflow-ahgirjsvxpnhtectyorcrgptvaxm/Build/Products/Debug-iphonesimulator/BrowseOverflowTests.octest/BrowseOverflowTests. One of the two will be used. Which one is undefined.
+objc[3494]: Class AvatarStore is implemented in both /Users/mtt0123/Library/Application Support/iPhone Simulator/6.1/Applications/A4B9CCEC-E78D-4358-ABC3-448030E5CC1B/BrowseOverflow.app/BrowseOverflow and /Users/mtt0123/Library/Developer/Xcode/DerivedData/BrowseOverflow-ahgirjsvxpnhtectyorcrgptvaxm/Build/Products/Debug-iphonesimulator/BrowseOverflowTests.octest/BrowseOverflowTests. One of the two will be used. Which one is undefined.
+objc[3494]: Class BrowseOverflowViewController is implemented in both /Users/mtt0123/Library/Application Support/iPhone Simulator/6.1/Applications/A4B9CCEC-E78D-4358-ABC3-448030E5CC1B/BrowseOverflow.app/BrowseOverflow and /Users/mtt0123/Library/Developer/Xcode/DerivedData/BrowseOverflow-ahgirjsvxpnhtectyorcrgptvaxm/Build/Products/Debug-iphonesimulator/BrowseOverflowTests.octest/BrowseOverflowTests. One of the two will be used. Which one is undefined.
+objc[3494]: Class TopicTableDataSource is implemented in both /Users/mtt0123/Library/Application Support/iPhone Simulator/6.1/Applications/A4B9CCEC-E78D-4358-ABC3-448030E5CC1B/BrowseOverflow.app/BrowseOverflow and /Users/mtt0123/Library/Developer/Xcode/DerivedData/BrowseOverflow-ahgirjsvxpnhtectyorcrgptvaxm/Build/Products/Debug-iphonesimulator/BrowseOverflowTests.octest/BrowseOverflowTests. One of the two will be used. Which one is undefined.
+objc[3494]: Class QuestionListTableDataSource is implemented in both /Users/mtt0123/Library/Application Support/iPhone Simulator/6.1/Applications/A4B9CCEC-E78D-4358-ABC3-448030E5CC1B/BrowseOverflow.app/BrowseOverflow and /Users/mtt0123/Library/Developer/Xcode/DerivedData/BrowseOverflow-ahgirjsvxpnhtectyorcrgptvaxm/Build/Products/Debug-iphonesimulator/BrowseOverflowTests.octest/BrowseOverflowTests. One of the two will be used. Which one is undefined.
+objc[3494]: Class QuestionSummaryCell is implemented in both /Users/mtt0123/Library/Application Support/iPhone Simulator/6.1/Applications/A4B9CCEC-E78D-4358-ABC3-448030E5CC1B/BrowseOverflow.app/BrowseOverflow and /Users/mtt0123/Library/Developer/Xcode/DerivedData/BrowseOverflow-ahgirjsvxpnhtectyorcrgptvaxm/Build/Products/Debug-iphonesimulator/BrowseOverflowTests.octest/BrowseOverflowTests. One of the two will be used. Which one is undefined.
+objc[3494]: Class QuestionDetailDataSource is implemented in both /Users/mtt0123/Library/Application Support/iPhone Simulator/6.1/Applications/A4B9CCEC-E78D-4358-ABC3-448030E5CC1B/BrowseOverflow.app/BrowseOverflow and /Users/mtt0123/Library/Developer/Xcode/DerivedData/BrowseOverflow-ahgirjsvxpnhtectyorcrgptvaxm/Build/Products/Debug-iphonesimulator/BrowseOverflowTests.octest/BrowseOverflowTests. One of the two will be used. Which one is undefined.
+objc[3494]: Class QuestionDetailCell is implemented in both /Users/mtt0123/Library/Application Support/iPhone Simulator/6.1/Applications/A4B9CCEC-E78D-4358-ABC3-448030E5CC1B/BrowseOverflow.app/BrowseOverflow and /Users/mtt0123/Library/Developer/Xcode/DerivedData/BrowseOverflow-ahgirjsvxpnhtectyorcrgptvaxm/Build/Products/Debug-iphonesimulator/BrowseOverflowTests.octest/BrowseOverflowTests. One of the two will be used. Which one is undefined.
+objc[3494]: Class AnswerCell is implemented in both /Users/mtt0123/Library/Application Support/iPhone Simulator/6.1/Applications/A4B9CCEC-E78D-4358-ABC3-448030E5CC1B/BrowseOverflow.app/BrowseOverflow and /Users/mtt0123/Library/Developer/Xcode/DerivedData/BrowseOverflow-ahgirjsvxpnhtectyorcrgptvaxm/Build/Products/Debug-iphonesimulator/BrowseOverflowTests.octest/BrowseOverflowTests. One of the two will be used. Which one is undefined.
+objc[3494]: Class BrowseOverflowObjectConfiguration is implemented in both /Users/mtt0123/Library/Application Support/iPhone Simulator/6.1/Applications/A4B9CCEC-E78D-4358-ABC3-448030E5CC1B/BrowseOverflow.app/BrowseOverflow and /Users/mtt0123/Library/Developer/Xcode/DerivedData/BrowseOverflow-ahgirjsvxpnhtectyorcrgptvaxm/Build/Products/Debug-iphonesimulator/BrowseOverflowTests.octest/BrowseOverflowTests. One of the two will be used. Which one is undefined.
+Test Suite 'All tests' started at 2013-04-09 01:56:39 +0000
+Test Suite '/Users/mtt0123/Library/Developer/Xcode/DerivedData/BrowseOverflow-ahgirjsvxpnhtectyorcrgptvaxm/Build/Products/Debug-iphonesimulator/BrowseOverflowTests.octest(Tests)' started at 2013-04-09 01:56:39 +0000
+Test Suite 'AnswerBuilderTests' started at 2013-04-09 01:56:39 +0000
+Test Case '-[AnswerBuilderTests testAddingRealAnswerJSONIsNotAnError]' started.
+Test Case '-[AnswerBuilderTests testAddingRealAnswerJSONIsNotAnError]' passed (0.000 seconds).
+Test Case '-[AnswerBuilderTests testAnswerIsProvidedByExpectedPerson]' started.
+Test Case '-[AnswerBuilderTests testAnswerIsProvidedByExpectedPerson]' passed (0.000 seconds).
+Test Case '-[AnswerBuilderTests testAnswerPropertiesMatchDataReceived]' started.
+Test Case '-[AnswerBuilderTests testAnswerPropertiesMatchDataReceived]' passed (0.000 seconds).
+Test Case '-[AnswerBuilderTests testErrorParameterMayBeNULL]' started.
+Test Case '-[AnswerBuilderTests testErrorParameterMayBeNULL]' passed (0.000 seconds).
+Test Case '-[AnswerBuilderTests testNumberOfAnswersAddedMatchNumberInData]' started.
+Test Case '-[AnswerBuilderTests testNumberOfAnswersAddedMatchNumberInData]' passed (0.000 seconds).
+Test Case '-[AnswerBuilderTests testSendingJSONWithIncorrectKeysIsAnError]' started.
+Test Case '-[AnswerBuilderTests testSendingJSONWithIncorrectKeysIsAnError]' passed (0.000 seconds).
+Test Case '-[AnswerBuilderTests testSendingNonJSONIsAnError]' started.
+Test Case '-[AnswerBuilderTests testSendingNonJSONIsAnError]' passed (0.000 seconds).
+Test Case '-[AnswerBuilderTests testThatAddingAnswersToNilQuestionIsNotSupported]' started.
+2013-04-09 09:56:39.036 BrowseOverflow[3494:c07] *** Assertion failure in -[AnswerBuilder addAnswersToQuestion:fromJSON:error:], /Users/mtt0123/Developer/BrowseOverflow/BrowseOverflow/AnswerBuilder.m:18
+Test Case '-[AnswerBuilderTests testThatAddingAnswersToNilQuestionIsNotSupported]' passed (0.001 seconds).
+Test Case '-[AnswerBuilderTests testThatSendingNilJSONIsNotAnOption]' started.
+2013-04-09 09:56:39.038 BrowseOverflow[3494:c07] *** Assertion failure in -[AnswerBuilder addAnswersToQuestion:fromJSON:error:], /Users/mtt0123/Developer/BrowseOverflow/BrowseOverflow/AnswerBuilder.m:17
+Test Case '-[AnswerBuilderTests testThatSendingNilJSONIsNotAnOption]' passed (0.000 seconds).
+Test Suite 'AnswerBuilderTests' finished at 2013-04-09 01:56:39 +0000.
+Executed 9 tests, with 0 failures (0 unexpected) in 0.002 (0.003) seconds
+Test Suite 'AnswerCreationWorkflowTests' started at 2013-04-09 01:56:39 +0000
+Test Case '-[AnswerCreationWorkflowTests testAnswerResponsePassedToAnswerBuilder]' started.
+Test Case '-[AnswerCreationWorkflowTests testAnswerResponsePassedToAnswerBuilder]' passed (0.000 seconds).
+Test Case '-[AnswerCreationWorkflowTests testAskingForAnswersMeansCommunicatingWithSite]' started.
+Test Case '-[AnswerCreationWorkflowTests testAskingForAnswersMeansCommunicatingWithSite]' passed (0.000 seconds).
+Test Case '-[AnswerCreationWorkflowTests testDelegateNotifiedOfFailureToGetAnswers]' started.
+Test Case '-[AnswerCreationWorkflowTests testDelegateNotifiedOfFailureToGetAnswers]' passed (0.000 seconds).
+Test Case '-[AnswerCreationWorkflowTests testManagerNotifiesDelegateWhenAnswersAdded]' started.
+Test Case '-[AnswerCreationWorkflowTests testManagerNotifiesDelegateWhenAnswersAdded]' passed (0.000 seconds).
+Test Case '-[AnswerCreationWorkflowTests testManagerNotifiesDelegateWhenAnswersNotAdded]' started.
+Test Case '-[AnswerCreationWorkflowTests testManagerNotifiesDelegateWhenAnswersNotAdded]' passed (0.000 seconds).
+Test Case '-[AnswerCreationWorkflowTests testManagerRemembersWhichQuestionToAddAnswersTo]' started.
+Test Case '-[AnswerCreationWorkflowTests testManagerRemembersWhichQuestionToAddAnswersTo]' passed (0.000 seconds).
+Test Case '-[AnswerCreationWorkflowTests testQuestionPassedToAnwerBuilder]' started.
+Test Case '-[AnswerCreationWorkflowTests testQuestionPassedToAnwerBuilder]' passed (0.000 seconds).
+Test Suite 'AnswerCreationWorkflowTests' finished at 2013-04-09 01:56:39 +0000.
+Executed 7 tests, with 0 failures (0 unexpected) in 0.001 (0.001) seconds
+Test Suite 'AnswerTests' started at 2013-04-09 01:56:39 +0000
+Test Case '-[AnswerTests testAcceptedAnswerComesBeforeUnaccepted]' started.
+Test Case '-[AnswerTests testAcceptedAnswerComesBeforeUnaccepted]' passed (0.000 seconds).
+Test Case '-[AnswerTests testAnswerCanBeAccepted]' started.
+Test Case '-[AnswerTests testAnswerCanBeAccepted]' passed (0.000 seconds).
+Test Case '-[AnswerTests testAnswerHasAScore]' started.
+Test Case '-[AnswerTests testAnswerHasAScore]' passed (0.000 seconds).
+Test Case '-[AnswerTests testAnswerHasSomeText]' started.
+Test Case '-[AnswerTests testAnswerHasSomeText]' passed (0.000 seconds).
+Test Case '-[AnswerTests testAnswersNotAcceptedByDefault]' started.
+Test Case '-[AnswerTests testAnswersNotAcceptedByDefault]' passed (0.000 seconds).
+Test Case '-[AnswerTests testAnswersWithEqualScoresCompareEqually]' started.
+Test Case '-[AnswerTests testAnswersWithEqualScoresCompareEqually]' passed (0.000 seconds).
+Test Case '-[AnswerTests testLowerScoringAnswerComesAfterHigher]' started.
+Test Case '-[AnswerTests testLowerScoringAnswerComesAfterHigher]' passed (0.000 seconds).
+Test Case '-[AnswerTests testSomeoneProvidedTheAnswer]' started.
+Test Case '-[AnswerTests testSomeoneProvidedTheAnswer]' passed (0.000 seconds).
+Test Suite 'AnswerTests' finished at 2013-04-09 01:56:39 +0000.
+Executed 8 tests, with 0 failures (0 unexpected) in 0.000 (0.000) seconds
+Test Suite 'AvatarStoreTests' started at 2013-04-09 01:56:39 +0000
+Test Case '-[AvatarStoreTests testCacheMissCreatesNewCommunicator]' started.
+Test Case '-[AvatarStoreTests testCacheMissCreatesNewCommunicator]' passed (0.002 seconds).
+Test Case '-[AvatarStoreTests testCacheMissReturnsNoData]' started.
+Test Case '-[AvatarStoreTests testCacheMissReturnsNoData]' passed (0.000 seconds).
+Test Case '-[AvatarStoreTests testLookupDataInCacheDictionary]' started.
+Test Case '-[AvatarStoreTests testLookupDataInCacheDictionary]' passed (0.000 seconds).
+Test Case '-[AvatarStoreTests testLowMemoryWarningRemovesCache]' started.
+Test Case '-[AvatarStoreTests testLowMemoryWarningRemovesCache]' passed (0.000 seconds).
+Test Case '-[AvatarStoreTests testNilDataReturnedWhenNilURLPassed]' started.
+Test Case '-[AvatarStoreTests testNilDataReturnedWhenNilURLPassed]' passed (0.000 seconds).
+Test Case '-[AvatarStoreTests testStoreDiscardsCommunicatorOnCompletion]' started.
+Test Case '-[AvatarStoreTests testStoreDiscardsCommunicatorOnCompletion]' passed (0.000 seconds).
+Test Case '-[AvatarStoreTests testStoreDiscardsCommunicatorOnFailure]' started.
+Test Case '-[AvatarStoreTests testStoreDiscardsCommunicatorOnFailure]' passed (0.000 seconds).
+Test Case '-[AvatarStoreTests testStoreDoesNotUseAnyDataOnError]' started.
+Test Case '-[AvatarStoreTests testStoreDoesNotUseAnyDataOnError]' passed (0.000 seconds).
+Test Case '-[AvatarStoreTests testStoreRemovesSubscriptionFromLowMemoryNotification]' started.
+Test Case '-[AvatarStoreTests testStoreRemovesSubscriptionFromLowMemoryNotification]' passed (0.000 seconds).
+Test Case '-[AvatarStoreTests testStoreRetrievedDataFromCommunicator]' started.
+Test Case '-[AvatarStoreTests testStoreRetrievedDataFromCommunicator]' passed (0.000 seconds).
+Test Case '-[AvatarStoreTests testStoreSendsDataUpdateNotificationWhenDataRetrieved]' started.
+Test Case '-[AvatarStoreTests testStoreSendsDataUpdateNotificationWhenDataRetrieved]' passed (0.000 seconds).
+Test Case '-[AvatarStoreTests testStoreSubscribesToLowMemoryNotification]' started.
+Test Case '-[AvatarStoreTests testStoreSubscribesToLowMemoryNotification]' passed (0.000 seconds).
+Test Suite 'AvatarStoreTests' finished at 2013-04-09 01:56:39 +0000.
+Executed 12 tests, with 0 failures (0 unexpected) in 0.002 (0.003) seconds
+Test Suite 'BrowseOverflowAppDelegateTests' started at 2013-04-09 01:56:39 +0000
+Test Case '-[BrowseOverflowAppDelegateTests testAppDidFinishLaunchingReturnsYES]' started.
+Test Case '-[BrowseOverflowAppDelegateTests testAppDidFinishLaunchingReturnsYES]' passed (0.082 seconds).
+Test Case '-[BrowseOverflowAppDelegateTests testFirstViewControllerHasATopicTableDataSource]' started.
+Test Case '-[BrowseOverflowAppDelegateTests testFirstViewControllerHasATopicTableDataSource]' passed (0.003 seconds).
+Test Case '-[BrowseOverflowAppDelegateTests testFirstViewControllerHasAnObjectConfiguration]' started.
+Test Case '-[BrowseOverflowAppDelegateTests testFirstViewControllerHasAnObjectConfiguration]' passed (0.002 seconds).
+Test Case '-[BrowseOverflowAppDelegateTests testNavigationControllerShowsABrowseOverflowViewController]' started.
+Test Case '-[BrowseOverflowAppDelegateTests testNavigationControllerShowsABrowseOverflowViewController]' passed (0.002 seconds).
+Test Case '-[BrowseOverflowAppDelegateTests testTopicListIsNotEmptyOnAppLaunch]' started.
+Test Case '-[BrowseOverflowAppDelegateTests testTopicListIsNotEmptyOnAppLaunch]' passed (0.002 seconds).
+Test Case '-[BrowseOverflowAppDelegateTests testWindowHasRootNavigationControllerAfterApplicationLaunch]' started.
+Test Case '-[BrowseOverflowAppDelegateTests testWindowHasRootNavigationControllerAfterApplicationLaunch]' passed (0.002 seconds).
+Test Case '-[BrowseOverflowAppDelegateTests testWindowIsKeyAfterApplicationLaunch]' started.
+Test Case '-[BrowseOverflowAppDelegateTests testWindowIsKeyAfterApplicationLaunch]' passed (0.002 seconds).
+Test Suite 'BrowseOverflowAppDelegateTests' finished at 2013-04-09 01:56:39 +0000.
+Executed 7 tests, with 0 failures (0 unexpected) in 0.096 (0.099) seconds
+Test Suite 'BrowseOverflowObjectConfigurationTests' started at 2013-04-09 01:56:39 +0000
+Test Case '-[BrowseOverflowObjectConfigurationTests testConfigurationOfCreatedAvatarStore]' started.
+Test Case '-[BrowseOverflowObjectConfigurationTests testConfigurationOfCreatedAvatarStore]' passed (0.000 seconds).
+Test Case '-[BrowseOverflowObjectConfigurationTests testConfigurationOfCreatedStackOverflowManager]' started.
+Test Case '-[BrowseOverflowObjectConfigurationTests testConfigurationOfCreatedStackOverflowManager]' passed (0.000 seconds).
+Test Case '-[BrowseOverflowObjectConfigurationTests testSameAvatarStoreAlwaysReturned]' started.
+Test Case '-[BrowseOverflowObjectConfigurationTests testSameAvatarStoreAlwaysReturned]' passed (0.000 seconds).
+Test Suite 'BrowseOverflowObjectConfigurationTests' finished at 2013-04-09 01:56:39 +0000.
+Executed 3 tests, with 0 failures (0 unexpected) in 0.000 (0.000) seconds
+Test Suite 'BrowseOverflowTests' started at 2013-04-09 01:56:39 +0000
+Test Suite 'BrowseOverflowTests' finished at 2013-04-09 01:56:39 +0000.
+Executed 0 tests, with 0 failures (0 unexpected) in 0.000 (0.000) seconds
+Test Suite 'BrowseOverflowViewControllerTests' started at 2013-04-09 01:56:39 +0000
+Test Case '-[BrowseOverflowViewControllerTests testDefaultStateOfViewControllerDoesNotReceiveQuestionSelectionNotification]' started.
+Test Case '-[BrowseOverflowViewControllerTests testDefaultStateOfViewControllerDoesNotReceiveQuestionSelectionNotification]' passed (0.014 seconds).
+Test Case '-[BrowseOverflowViewControllerTests testDefaultStateOfViewControllerDoesNotReceiveTopicSelectionNotifications]' started.
+Test Case '-[BrowseOverflowViewControllerTests testDefaultStateOfViewControllerDoesNotReceiveTopicSelectionNotifications]' passed (0.000 seconds).
+Test Case '-[BrowseOverflowViewControllerTests testDetailsNotLoadedForQuestionListView]' started.
+Test Case '-[BrowseOverflowViewControllerTests testDetailsNotLoadedForQuestionListView]' passed (0.000 seconds).
+Test Case '-[BrowseOverflowViewControllerTests testDownloadedQuestionsAreAddedToTopic]' started.
+Test Case '-[BrowseOverflowViewControllerTests testDownloadedQuestionsAreAddedToTopic]' passed (0.000 seconds).
+Test Case '-[BrowseOverflowViewControllerTests testNewViewControllerHasAQuestionListDataSourceForTheSelectedTopic]' started.
+Test Case '-[BrowseOverflowViewControllerTests testNewViewControllerHasAQuestionListDataSourceForTheSelectedTopic]' passed (0.000 seconds).
+Test Case '-[BrowseOverflowViewControllerTests testNoDataLoadedForTopicListView]' started.
+Test Case '-[BrowseOverflowViewControllerTests testNoDataLoadedForTopicListView]' passed (0.000 seconds).
+Test Case '-[BrowseOverflowViewControllerTests testQuestionDetailViewIsGivenAnAvatarStore]' started.
+Test Case '-[BrowseOverflowViewControllerTests testQuestionDetailViewIsGivenAnAvatarStore]' passed (0.000 seconds).
+Test Case '-[BrowseOverflowViewControllerTests testQuestionListViewIsGivenAnAvatarStore]' started.
+Test Case '-[BrowseOverflowViewControllerTests testQuestionListViewIsGivenAnAvatarStore]' passed (0.000 seconds).
+Test Case '-[BrowseOverflowViewControllerTests testQuestionsNotLoadedForDetailView]' started.
+Test Case '-[BrowseOverflowViewControllerTests testQuestionsNotLoadedForDetailView]' passed (0.000 seconds).
+Test Case '-[BrowseOverflowViewControllerTests testSelectingQuestionNotificationPassesObjectConfigurationToNewViewController]' started.
+Test Case '-[BrowseOverflowViewControllerTests testSelectingQuestionNotificationPassesObjectConfigurationToNewViewController]' passed (0.000 seconds).
+Test Case '-[BrowseOverflowViewControllerTests testSelectingQuestionPushesNewViewController]' started.
+Test Case '-[BrowseOverflowViewControllerTests testSelectingQuestionPushesNewViewController]' passed (0.000 seconds).
+Test Case '-[BrowseOverflowViewControllerTests testSelectingTopicNotificationPassesObjectConfigurationToNewViewController]' started.
+Test Case '-[BrowseOverflowViewControllerTests testSelectingTopicNotificationPassesObjectConfigurationToNewViewController]' passed (0.000 seconds).
+Test Case '-[BrowseOverflowViewControllerTests testSelectingTopicPushesNewViewController]' started.
+Test Case '-[BrowseOverflowViewControllerTests testSelectingTopicPushesNewViewController]' passed (0.000 seconds).
+Test Case '-[BrowseOverflowViewControllerTests testTableReloadedWhenQuestionBodyReceived]' started.
+Test Case '-[BrowseOverflowViewControllerTests testTableReloadedWhenQuestionBodyReceived]' passed (0.000 seconds).
+Test Case '-[BrowseOverflowViewControllerTests testTableViewReloadedWhenAnswersReceived]' started.
+Test Case '-[BrowseOverflowViewControllerTests testTableViewReloadedWhenAnswersReceived]' passed (0.000 seconds).
+Test Case '-[BrowseOverflowViewControllerTests testTableViewReloadedWhenQuestionsReceived]' started.
+Test Case '-[BrowseOverflowViewControllerTests testTableViewReloadedWhenQuestionsReceived]' passed (0.000 seconds).
+Test Case '-[BrowseOverflowViewControllerTests testViewControllerCallsSuperViewDidAppear]' started.
+Test Case '-[BrowseOverflowViewControllerTests testViewControllerCallsSuperViewDidAppear]' passed (0.000 seconds).
+Test Case '-[BrowseOverflowViewControllerTests testViewControllerCallsSuperViewWillDisappear]' started.
+Test Case '-[BrowseOverflowViewControllerTests testViewControllerCallsSuperViewWillDisappear]' passed (0.000 seconds).
+Test Case '-[BrowseOverflowViewControllerTests testViewControllerConfiguredAsStackOverflowManagerDelegateOnManagerCreation]' started.
+Test Case '-[BrowseOverflowViewControllerTests testViewControllerConfiguredAsStackOverflowManagerDelegateOnManagerCreation]' passed (0.000 seconds).
+Test Case '-[BrowseOverflowViewControllerTests testViewControllerConformsToStackOverflowManagerDelegateProtocol]' started.
+Test Case '-[BrowseOverflowViewControllerTests testViewControllerConformsToStackOverflowManagerDelegateProtocol]' passed (0.000 seconds).
+Test Case '-[BrowseOverflowViewControllerTests testViewControllerConnectsDataSourceInViewDidLoad]' started.
+Test Case '-[BrowseOverflowViewControllerTests testViewControllerConnectsDataSourceInViewDidLoad]' passed (0.000 seconds).
+Test Case '-[BrowseOverflowViewControllerTests testViewControllerConnectsDelegateInViewDidLoad]' started.
+Test Case '-[BrowseOverflowViewControllerTests testViewControllerConnectsDelegateInViewDidLoad]' passed (0.000 seconds).
+Test Case '-[BrowseOverflowViewControllerTests testViewControllerConnectsTableViewBacklinkInViewDidLoad]' started.
+Test Case '-[BrowseOverflowViewControllerTests testViewControllerConnectsTableViewBacklinkInViewDidLoad]' passed (0.000 seconds).
+Test Case '-[BrowseOverflowViewControllerTests testViewControllerDoesNotReceiveQuestionSelectNotificationAfterViewWillDisappear]' started.
+Test Case '-[BrowseOverflowViewControllerTests testViewControllerDoesNotReceiveQuestionSelectNotificationAfterViewWillDisappear]' passed (0.000 seconds).
+Test Case '-[BrowseOverflowViewControllerTests testViewControllerDoesNotReceiveTopicSelectNotificationAfterViewWillDisappear]' started.
+Test Case '-[BrowseOverflowViewControllerTests testViewControllerDoesNotReceiveTopicSelectNotificationAfterViewWillDisappear]' passed (0.000 seconds).
+Test Case '-[BrowseOverflowViewControllerTests testViewControllerHasADataSourceProperty]' started.
+Test Case '-[BrowseOverflowViewControllerTests testViewControllerHasADataSourceProperty]' passed (0.000 seconds).
+Test Case '-[BrowseOverflowViewControllerTests testViewControllerHasATableViewProperty]' started.
+Test Case '-[BrowseOverflowViewControllerTests testViewControllerHasATableViewProperty]' passed (0.000 seconds).
+Test Case '-[BrowseOverflowViewControllerTests testViewControllerHooksUpQuestionListNotificationCenterInViewDidAppear]' started.
+Test Case '-[BrowseOverflowViewControllerTests testViewControllerHooksUpQuestionListNotificationCenterInViewDidAppear]' passed (0.000 seconds).
+Test Case '-[BrowseOverflowViewControllerTests testViewControllerPushedOnQuestionSelectionHasQuestionDetailDataSourceForSelectedQuestion]' started.
+Test Case '-[BrowseOverflowViewControllerTests testViewControllerPushedOnQuestionSelectionHasQuestionDetailDataSourceForSelectedQuestion]' passed (0.000 seconds).
+Test Case '-[BrowseOverflowViewControllerTests testViewControllerReceivesQuestionSelectionNotificationAfterViewDidAppear]' started.
+Test Case '-[BrowseOverflowViewControllerTests testViewControllerReceivesQuestionSelectionNotificationAfterViewDidAppear]' passed (0.000 seconds).
+Test Case '-[BrowseOverflowViewControllerTests testViewControllerReceivesTopicSelectionNotificationAfterViewDidAppear]' started.
+Test Case '-[BrowseOverflowViewControllerTests testViewControllerReceivesTopicSelectionNotificationAfterViewDidAppear]' passed (0.000 seconds).
+Test Case '-[BrowseOverflowViewControllerTests testViewWillAppearCallsSuper]' started.
+Test Case '-[BrowseOverflowViewControllerTests testViewWillAppearCallsSuper]' passed (0.000 seconds).
+Test Case '-[BrowseOverflowViewControllerTests testViewWillAppearCreatesAStackOverflowManager]' started.
+Test Case '-[BrowseOverflowViewControllerTests testViewWillAppearCreatesAStackOverflowManager]' passed (0.000 seconds).
+Test Case '-[BrowseOverflowViewControllerTests testViewWillAppearOnQuestionDetailInitiatesLoadingOfAnswersAndBody]' started.
+Test Case '-[BrowseOverflowViewControllerTests testViewWillAppearOnQuestionDetailInitiatesLoadingOfAnswersAndBody]' passed (0.000 seconds).
+Test Case '-[BrowseOverflowViewControllerTests testViewWillAppearOnQuestionListInitiatesLoadingOfQuestions]' started.
+Test Case '-[BrowseOverflowViewControllerTests testViewWillAppearOnQuestionListInitiatesLoadingOfQuestions]' passed (0.000 seconds).
+Test Suite 'BrowseOverflowViewControllerTests' finished at 2013-04-09 01:56:39 +0000.
+Executed 35 tests, with 0 failures (0 unexpected) in 0.025 (0.030) seconds
+Test Suite 'GravatarCommunicatorTests' started at 2013-04-09 01:56:39 +0000
+Test Case '-[GravatarCommunicatorTests testCommunicatorAppendsReceivedData]' started.
+Test Case '-[GravatarCommunicatorTests testCommunicatorAppendsReceivedData]' passed (0.000 seconds).
+Test Case '-[GravatarCommunicatorTests testCommunicatorCreatesAURLConnection]' started.
+Test Case '-[GravatarCommunicatorTests testCommunicatorCreatesAURLConnection]' passed (0.000 seconds).
+Test Case '-[GravatarCommunicatorTests testCommunicatorDiscardsDataWhenResponseReceived]' started.
+Test Case '-[GravatarCommunicatorTests testCommunicatorDiscardsDataWhenResponseReceived]' passed (0.000 seconds).
+Test Case '-[GravatarCommunicatorTests testCommunicatorKeepsURLRequested]' started.
+Test Case '-[GravatarCommunicatorTests testCommunicatorKeepsURLRequested]' passed (0.000 seconds).
+Test Case '-[GravatarCommunicatorTests testThatCommunicatorPassesDataWhenCompleted]' started.
+Test Case '-[GravatarCommunicatorTests testThatCommunicatorPassesDataWhenCompleted]' passed (0.000 seconds).
+Test Case '-[GravatarCommunicatorTests testThatCommunicatorPassesURLBackWhenCompleted]' started.
+Test Case '-[GravatarCommunicatorTests testThatCommunicatorPassesURLBackWhenCompleted]' passed (0.000 seconds).
+Test Case '-[GravatarCommunicatorTests testURLPassedBackOnError]' started.
+Test Case '-[GravatarCommunicatorTests testURLPassedBackOnError]' passed (0.000 seconds).
+Test Suite 'GravatarCommunicatorTests' finished at 2013-04-09 01:56:39 +0000.
+Executed 7 tests, with 0 failures (0 unexpected) in 0.000 (0.001) seconds
+Test Suite 'PersonTests' started at 2013-04-09 01:56:39 +0000
+Test Case '-[PersonTests testThatPersonHasAnAvatarURL]' started.
+Test Case '-[PersonTests testThatPersonHasAnAvatarURL]' passed (0.000 seconds).
+Test Case '-[PersonTests testThatPersonHasTheRightName]' started.
+Test Case '-[PersonTests testThatPersonHasTheRightName]' passed (0.000 seconds).
+Test Suite 'PersonTests' finished at 2013-04-09 01:56:39 +0000.
+Executed 2 tests, with 0 failures (0 unexpected) in 0.000 (0.000) seconds
+Test Suite 'QuestionBuilderTests' started at 2013-04-09 01:56:39 +0000
+Test Case '-[QuestionBuilderTests testBodyContainedInJSONIsAddedToQuestion]' started.
+Test Case '-[QuestionBuilderTests testBodyContainedInJSONIsAddedToQuestion]' passed (0.000 seconds).
+Test Case '-[QuestionBuilderTests testBuildingQuestionBodyWithNoDataCannotBeTried]' started.
+2013-04-09 09:56:39.174 BrowseOverflow[3494:c07] *** Assertion failure in -[QuestionBuilder fillInDetailsForQuestion:fromJSON:], /Users/mtt0123/Developer/BrowseOverflow/BrowseOverflow/QuestionBuilder.m:55
+Test Case '-[QuestionBuilderTests testBuildingQuestionBodyWithNoDataCannotBeTried]' passed (0.000 seconds).
+Test Case '-[QuestionBuilderTests testBuildingQuestionBodyWithNoQuestionCannotBeTried]' started.
+2013-04-09 09:56:39.174 BrowseOverflow[3494:c07] *** Assertion failure in -[QuestionBuilder fillInDetailsForQuestion:fromJSON:], /Users/mtt0123/Developer/BrowseOverflow/BrowseOverflow/QuestionBuilder.m:54
+Test Case '-[QuestionBuilderTests testBuildingQuestionBodyWithNoQuestionCannotBeTried]' passed (0.000 seconds).
+Test Case '-[QuestionBuilderTests testEmptyQuestionsArrayDoesNotCrash]' started.
+Test Case '-[QuestionBuilderTests testEmptyQuestionsArrayDoesNotCrash]' passed (0.000 seconds).
+Test Case '-[QuestionBuilderTests testErrorSetWhenStringIsNotJSON]' started.
+Test Case '-[QuestionBuilderTests testErrorSetWhenStringIsNotJSON]' passed (0.000 seconds).
+Test Case '-[QuestionBuilderTests testJSONWhichDoesNotContainABodyDoesNotCauseBodyToBeAdded]' started.
+Test Case '-[QuestionBuilderTests testJSONWhichDoesNotContainABodyDoesNotCauseBodyToBeAdded]' passed (0.000 seconds).
+Test Case '-[QuestionBuilderTests testJSONWithOneQuestionReturnsOneQuestionObject]' started.
+Test Case '-[QuestionBuilderTests testJSONWithOneQuestionReturnsOneQuestionObject]' passed (0.000 seconds).
+Test Case '-[QuestionBuilderTests testNilReturnedWhenStringIsNotJSON]' started.
+Test Case '-[QuestionBuilderTests testNilReturnedWhenStringIsNotJSON]' passed (0.000 seconds).
+Test Case '-[QuestionBuilderTests testNonJSONDataDoesNotCauseABodyToBeAddedToAQuestion]' started.
+Test Case '-[QuestionBuilderTests testNonJSONDataDoesNotCauseABodyToBeAddedToAQuestion]' passed (0.000 seconds).
+Test Case '-[QuestionBuilderTests testPassingNullErrorDoesNotCauseCrash]' started.
+Test Case '-[QuestionBuilderTests testPassingNullErrorDoesNotCauseCrash]' passed (0.000 seconds).
+Test Case '-[QuestionBuilderTests testQuestionCreatedFromEmptyObjectIsStillValidObject]' started.
+Test Case '-[QuestionBuilderTests testQuestionCreatedFromEmptyObjectIsStillValidObject]' passed (0.000 seconds).
+Test Case '-[QuestionBuilderTests testQuestionCreatedFromJSONHasPropertiesPresentedInJSON]' started.
+Test Case '-[QuestionBuilderTests testQuestionCreatedFromJSONHasPropertiesPresentedInJSON]' passed (0.000 seconds).
+Test Case '-[QuestionBuilderTests testRealJSONWithoutQuestionsArrayIsError]' started.
+Test Case '-[QuestionBuilderTests testRealJSONWithoutQuestionsArrayIsError]' passed (0.000 seconds).
+Test Case '-[QuestionBuilderTests testRealJSONWithoutQuestionsReturnsMissingDataError]' started.
+Test Case '-[QuestionBuilderTests testRealJSONWithoutQuestionsReturnsMissingDataError]' passed (0.000 seconds).
+Test Case '-[QuestionBuilderTests testThatNilIsNotAnAcceptableParameter]' started.
+2013-04-09 09:56:39.176 BrowseOverflow[3494:c07] *** Assertion failure in -[QuestionBuilder questionsFromJSON:error:], /Users/mtt0123/Developer/BrowseOverflow/BrowseOverflow/QuestionBuilder.m:17
+Test Case '-[QuestionBuilderTests testThatNilIsNotAnAcceptableParameter]' passed (0.000 seconds).
+Test Suite 'QuestionBuilderTests' finished at 2013-04-09 01:56:39 +0000.
+Executed 15 tests, with 0 failures (0 unexpected) in 0.002 (0.003) seconds
+Test Suite 'QuestionCreationWorkflowTests' started at 2013-04-09 01:56:39 +0000
+Test Case '-[QuestionCreationWorkflowTests testAskingForQuestionBodyMeansRequestingData]' started.
+Test Case '-[QuestionCreationWorkflowTests testAskingForQuestionBodyMeansRequestingData]' passed (0.000 seconds).
+Test Case '-[QuestionCreationWorkflowTests testAskingForQuestionsMeansRequestingData]' started.
+Test Case '-[QuestionCreationWorkflowTests testAskingForQuestionsMeansRequestingData]' passed (0.000 seconds).
+Test Case '-[QuestionCreationWorkflowTests testConformingObjectCanBeDelegate]' started.
+Test Case '-[QuestionCreationWorkflowTests testConformingObjectCanBeDelegate]' passed (0.000 seconds).
+Test Case '-[QuestionCreationWorkflowTests testDelegateNotToldAboutErrorWhenQuestionsReceived]' started.
+Test Case '-[QuestionCreationWorkflowTests testDelegateNotToldAboutErrorWhenQuestionsReceived]' passed (0.000 seconds).
+Test Case '-[QuestionCreationWorkflowTests testDelegateNotifiedOfErrorWhenQuestionBuilderFails]' started.
+Test Case '-[QuestionCreationWorkflowTests testDelegateNotifiedOfErrorWhenQuestionBuilderFails]' passed (0.000 seconds).
+Test Case '-[QuestionCreationWorkflowTests testDelegateNotifiedOfFailureToFetchQuestion]' started.
+Test Case '-[QuestionCreationWorkflowTests testDelegateNotifiedOfFailureToFetchQuestion]' passed (0.000 seconds).
+Test Case '-[QuestionCreationWorkflowTests testDelegateReceivesTheQuestionsDiscoveredByManager]' started.
+Test Case '-[QuestionCreationWorkflowTests testDelegateReceivesTheQuestionsDiscoveredByManager]' passed (0.000 seconds).
+Test Case '-[QuestionCreationWorkflowTests testEmptyArrayIsPassedToDelegate]' started.
+Test Case '-[QuestionCreationWorkflowTests testEmptyArrayIsPassedToDelegate]' passed (0.000 seconds).
+Test Case '-[QuestionCreationWorkflowTests testErrorReturnedToDelegateDocumentsUnderlyingError]' started.
+Test Case '-[QuestionCreationWorkflowTests testErrorReturnedToDelegateDocumentsUnderlyingError]' passed (0.000 seconds).
+Test Case '-[QuestionCreationWorkflowTests testErrorReturnedToDelegateIsNotErrorNotifiedByCommunicator]' started.
+Test Case '-[QuestionCreationWorkflowTests testErrorReturnedToDelegateIsNotErrorNotifiedByCommunicator]' passed (0.000 seconds).
+Test Case '-[QuestionCreationWorkflowTests testManagerAcceptsNilAsADelegate]' started.
+Test Case '-[QuestionCreationWorkflowTests testManagerAcceptsNilAsADelegate]' passed (0.000 seconds).
+Test Case '-[QuestionCreationWorkflowTests testManagerNotifiesDelegateWhenQuestionBodyIsReceived]' started.
+Test Case '-[QuestionCreationWorkflowTests testManagerNotifiesDelegateWhenQuestionBodyIsReceived]' passed (0.000 seconds).
+Test Case '-[QuestionCreationWorkflowTests testManagerPassesQuestionItWasSentToQuestionBuilderForFillingIn]' started.
+Test Case '-[QuestionCreationWorkflowTests testManagerPassesQuestionItWasSentToQuestionBuilderForFillingIn]' passed (0.000 seconds).
+Test Case '-[QuestionCreationWorkflowTests testManagerPassesRetrievedQuestionBodyToQuestionBuilder]' started.
+Test Case '-[QuestionCreationWorkflowTests testManagerPassesRetrievedQuestionBodyToQuestionBuilder]' passed (0.000 seconds).
+Test Case '-[QuestionCreationWorkflowTests testNonConformingObjectCannotBeDelegate]' started.
+Test Case '-[QuestionCreationWorkflowTests testNonConformingObjectCannotBeDelegate]' passed (0.000 seconds).
+Test Case '-[QuestionCreationWorkflowTests testQuestionJSONIsPassedToQuestionBuilder]' started.
+Test Case '-[QuestionCreationWorkflowTests testQuestionJSONIsPassedToQuestionBuilder]' passed (0.000 seconds).
+Test Suite 'QuestionCreationWorkflowTests' finished at 2013-04-09 01:56:39 +0000.
+Executed 16 tests, with 0 failures (0 unexpected) in 0.000 (0.001) seconds
+Test Suite 'QuestionDetailDataSourceTests' started at 2013-04-09 01:56:39 +0000
+Test Case '-[QuestionDetailDataSourceTests testAcceptedLabelOnlyShownForAcceptedAnswer]' started.
+Test Case '-[QuestionDetailDataSourceTests testAcceptedLabelOnlyShownForAcceptedAnswer]' passed (0.009 seconds).
+Test Case '-[QuestionDetailDataSourceTests testAnswerPropertiesAppearInAnswerCell]' started.
+Test Case '-[QuestionDetailDataSourceTests testAnswerPropertiesAppearInAnswerCell]' passed (0.002 seconds).
+Test Case '-[QuestionDetailDataSourceTests testAnswerRowIsAtLeastAsTallAsItsContent]' started.
+Test Case '-[QuestionDetailDataSourceTests testAnswerRowIsAtLeastAsTallAsItsContent]' passed (0.002 seconds).
+Test Case '-[QuestionDetailDataSourceTests testAnswererPropertiesInAnswerCell]' started.
+Test Case '-[QuestionDetailDataSourceTests testAnswererPropertiesInAnswerCell]' passed (0.599 seconds).
+Test Case '-[QuestionDetailDataSourceTests testOneRowInTheFirstSection]' started.
+Test Case '-[QuestionDetailDataSourceTests testOneRowInTheFirstSection]' passed (0.000 seconds).
+Test Case '-[QuestionDetailDataSourceTests testOneRowPerAnswerInTheSecondSection]' started.
+Test Case '-[QuestionDetailDataSourceTests testOneRowPerAnswerInTheSecondSection]' passed (0.000 seconds).
+Test Case '-[QuestionDetailDataSourceTests testQuestionCellGetsImageFromAvatarStore]' started.
+Test Case '-[QuestionDetailDataSourceTests testQuestionCellGetsImageFromAvatarStore]' passed (0.003 seconds).
+Test Case '-[QuestionDetailDataSourceTests testQuestionPropertiesAppearInQuestionCell]' started.
+Test Case '-[QuestionDetailDataSourceTests testQuestionPropertiesAppearInQuestionCell]' passed (0.503 seconds).
+Test Case '-[QuestionDetailDataSourceTests testQuestionRowIsAtLeastAsTallAsItsContent]' started.
+Test Case '-[QuestionDetailDataSourceTests testQuestionRowIsAtLeastAsTallAsItsContent]' passed (0.002 seconds).
+Test Case '-[QuestionDetailDataSourceTests testTwoSectionsInTheTableView]' started.
+Test Case '-[QuestionDetailDataSourceTests testTwoSectionsInTheTableView]' passed (0.000 seconds).
+Test Suite 'QuestionDetailDataSourceTests' finished at 2013-04-09 01:56:40 +0000.
+Executed 10 tests, with 0 failures (0 unexpected) in 1.119 (1.122) seconds
+Test Suite 'QuestionListTableDataSourceTests' started at 2013-04-09 01:56:40 +0000
+Test Case '-[QuestionListTableDataSourceTests testCellGetsImageFromAvatarStore]' started.
+Test Case '-[QuestionListTableDataSourceTests testCellGetsImageFromAvatarStore]' passed (0.001 seconds).
+Test Case '-[QuestionListTableDataSourceTests testCellPropertiesAreTheSameAsTheQuestion]' started.
+Test Case '-[QuestionListTableDataSourceTests testCellPropertiesAreTheSameAsTheQuestion]' passed (0.001 seconds).
+Test Case '-[QuestionListTableDataSourceTests testContentOfPlaceholderCell]' started.
+Test Case '-[QuestionListTableDataSourceTests testContentOfPlaceholderCell]' passed (0.000 seconds).
+Test Case '-[QuestionListTableDataSourceTests testHeightOfAQuestionRowIsAtLeastTheSameAsTheHeightOfTheCell]' started.
+Test Case '-[QuestionListTableDataSourceTests testHeightOfAQuestionRowIsAtLeastTheSameAsTheHeightOfTheCell]' passed (0.000 seconds).
+Test Case '-[QuestionListTableDataSourceTests testPlaceholderCellNotReturnedWhenQuestionsExist]' started.
+Test Case '-[QuestionListTableDataSourceTests testPlaceholderCellNotReturnedWhenQuestionsExist]' passed (0.000 seconds).
+Test Case '-[QuestionListTableDataSourceTests testQuestionListCausesTableReloadOnAvatarNotification]' started.
+Test Case '-[QuestionListTableDataSourceTests testQuestionListCausesTableReloadOnAvatarNotification]' passed (0.000 seconds).
+Test Case '-[QuestionListTableDataSourceTests testQuestionListRegistersForAvatarNotifications]' started.
+Test Case '-[QuestionListTableDataSourceTests testQuestionListRegistersForAvatarNotifications]' passed (0.000 seconds).
+Test Case '-[QuestionListTableDataSourceTests testQuestionListStopsRegisteringForAvatarNotifications]' started.
+Test Case '-[QuestionListTableDataSourceTests testQuestionListStopsRegisteringForAvatarNotifications]' passed (0.000 seconds).
+Test Case '-[QuestionListTableDataSourceTests testSelectingPlaceholderDoesNotSendSelectionNotification]' started.
+Test Case '-[QuestionListTableDataSourceTests testSelectingPlaceholderDoesNotSendSelectionNotification]' passed (0.000 seconds).
+Test Case '-[QuestionListTableDataSourceTests testSelectingQuestionSendsSelectionNotification]' started.
+Test Case '-[QuestionListTableDataSourceTests testSelectingQuestionSendsSelectionNotification]' passed (0.001 seconds).
+Test Case '-[QuestionListTableDataSourceTests testTopicWithNoQuestionsLeadsToOneRowInTheTable]' started.
+Test Case '-[QuestionListTableDataSourceTests testTopicWithNoQuestionsLeadsToOneRowInTheTable]' passed (0.000 seconds).
+Test Case '-[QuestionListTableDataSourceTests testTopicWithQuestionsResultsInOneRowPerQuestionInTheTable]' started.
+Test Case '-[QuestionListTableDataSourceTests testTopicWithQuestionsResultsInOneRowPerQuestionInTheTable]' passed (0.000 seconds).
+Test Suite 'QuestionListTableDataSourceTests' finished at 2013-04-09 01:56:40 +0000.
+Executed 12 tests, with 0 failures (0 unexpected) in 0.004 (0.005) seconds
+Test Suite 'QuestionTests' started at 2013-04-09 01:56:40 +0000
+Test Case '-[QuestionTests testAcceptedAnswerIsFirst]' started.
+Test Case '-[QuestionTests testAcceptedAnswerIsFirst]' passed (0.000 seconds).
+Test Case '-[QuestionTests testHighScoreAnswerBeforeLow]' started.
+Test Case '-[QuestionTests testHighScoreAnswerBeforeLow]' passed (0.000 seconds).
+Test Case '-[QuestionTests testQuestionCanHaveAnswersAdded]' started.
+Test Case '-[QuestionTests testQuestionCanHaveAnswersAdded]' passed (0.000 seconds).
+Test Case '-[QuestionTests testQuestionHasABody]' started.
+Test Case '-[QuestionTests testQuestionHasABody]' passed (0.000 seconds).
+Test Case '-[QuestionTests testQuestionHasADate]' started.
+Test Case '-[QuestionTests testQuestionHasADate]' passed (0.000 seconds).
+Test Case '-[QuestionTests testQuestionHasATitle]' started.
+Test Case '-[QuestionTests testQuestionHasATitle]' passed (0.000 seconds).
+Test Case '-[QuestionTests testQuestionHasIdentity]' started.
+Test Case '-[QuestionTests testQuestionHasIdentity]' passed (0.000 seconds).
+Test Case '-[QuestionTests testQuestionKeepsScore]' started.
+Test Case '-[QuestionTests testQuestionKeepsScore]' passed (0.000 seconds).
+Test Case '-[QuestionTests testQuestionWasAskedBySomeone]' started.
+Test Case '-[QuestionTests testQuestionWasAskedBySomeone]' passed (0.000 seconds).
+Test Suite 'QuestionTests' finished at 2013-04-09 01:56:40 +0000.
+Executed 9 tests, with 0 failures (0 unexpected) in 0.000 (0.001) seconds
+Test Suite 'StackOverflowCommunicatorTests' started at 2013-04-09 01:56:40 +0000
+Test Case '-[StackOverflowCommunicatorTests testAdditionalDataAppendedToDownload]' started.
+Test Case '-[StackOverflowCommunicatorTests testAdditionalDataAppendedToDownload]' passed (0.000 seconds).
+Test Case '-[StackOverflowCommunicatorTests testConnectionFailingPassesErrorToDelegate]' started.
+Test Case '-[StackOverflowCommunicatorTests testConnectionFailingPassesErrorToDelegate]' passed (0.000 seconds).
+Test Case '-[StackOverflowCommunicatorTests testFetchingAnswersToQuestionCallsQuestionAPI]' started.
+Test Case '-[StackOverflowCommunicatorTests testFetchingAnswersToQuestionCallsQuestionAPI]' passed (0.000 seconds).
+Test Case '-[StackOverflowCommunicatorTests testFillingInQuestionBodyCallsQuestionAPI]' started.
+Test Case '-[StackOverflowCommunicatorTests testFillingInQuestionBodyCallsQuestionAPI]' passed (0.000 seconds).
+Test Case '-[StackOverflowCommunicatorTests testNoErrorReceivedOn200Status]' started.
+Test Case '-[StackOverflowCommunicatorTests testNoErrorReceivedOn200Status]' passed (0.000 seconds).
+Test Case '-[StackOverflowCommunicatorTests testReceiving404ResponseToAnswerRequestPassesErrorToDelegate]' started.
+Test Case '-[StackOverflowCommunicatorTests testReceiving404ResponseToAnswerRequestPassesErrorToDelegate]' passed (0.000 seconds).
+Test Case '-[StackOverflowCommunicatorTests testReceiving404ResponseToQuestionBodyRequestPassesErrorToDelegate]' started.
+Test Case '-[StackOverflowCommunicatorTests testReceiving404ResponseToQuestionBodyRequestPassesErrorToDelegate]' passed (0.000 seconds).
+Test Case '-[StackOverflowCommunicatorTests testReceivingResponseDiscardsExistingData]' started.
+Test Case '-[StackOverflowCommunicatorTests testReceivingResponseDiscardsExistingData]' passed (0.000 seconds).
+Test Case '-[StackOverflowCommunicatorTests testReceivingResponseWith404StatusPassesErrorToDelegate]' started.
+Test Case '-[StackOverflowCommunicatorTests testReceivingResponseWith404StatusPassesErrorToDelegate]' passed (0.000 seconds).
+Test Case '-[StackOverflowCommunicatorTests testSearchingForQuestionsCreatesURLConnection]' started.
+Test Case '-[StackOverflowCommunicatorTests testSearchingForQuestionsCreatesURLConnection]' passed (0.000 seconds).
+Test Case '-[StackOverflowCommunicatorTests testSearchingForQuestionsOnTopicCallsTopicAPI]' started.
+Test Case '-[StackOverflowCommunicatorTests testSearchingForQuestionsOnTopicCallsTopicAPI]' passed (0.000 seconds).
+Test Case '-[StackOverflowCommunicatorTests testStartingNewSearchThrowsOutOldConnection]' started.
+Test Case '-[StackOverflowCommunicatorTests testStartingNewSearchThrowsOutOldConnection]' passed (0.000 seconds).
+Test Case '-[StackOverflowCommunicatorTests testSuccessfulAnswerFetchPassesDataToDelegate]' started.
+Test Case '-[StackOverflowCommunicatorTests testSuccessfulAnswerFetchPassesDataToDelegate]' passed (0.000 seconds).
+Test Case '-[StackOverflowCommunicatorTests testSuccessfulBodyFetchPassesDataToDelegate]' started.
+Test Case '-[StackOverflowCommunicatorTests testSuccessfulBodyFetchPassesDataToDelegate]' passed (0.000 seconds).
+Test Case '-[StackOverflowCommunicatorTests testSuccessfulQuestionSearchPassesDataToDelegate]' started.
+Test Case '-[StackOverflowCommunicatorTests testSuccessfulQuestionSearchPassesDataToDelegate]' passed (0.000 seconds).
+Test Suite 'StackOverflowCommunicatorTests' finished at 2013-04-09 01:56:40 +0000.
+Executed 15 tests, with 0 failures (0 unexpected) in 0.001 (0.001) seconds
+Test Suite 'TopicTableDataSourceTests' started at 2013-04-09 01:56:40 +0000
+Test Case '-[TopicTableDataSourceTests testCellCreatedByDataSourceContainsTopicTitleAsTextLabel]' started.
+Test Case '-[TopicTableDataSourceTests testCellCreatedByDataSourceContainsTopicTitleAsTextLabel]' passed (0.000 seconds).
+Test Case '-[TopicTableDataSourceTests testDataSourceCellCreationExpectsOneSection]' started.
+2013-04-09 09:56:40.306 BrowseOverflow[3494:c07] *** Assertion failure in -[TopicTableDataSource tableView:cellForRowAtIndexPath:], /Users/mtt0123/Developer/BrowseOverflow/BrowseOverflowTests/TopicTableDataSource.m:39
+Test Case '-[TopicTableDataSourceTests testDataSourceCellCreationExpectsOneSection]' passed (0.000 seconds).
+Test Case '-[TopicTableDataSourceTests testDataSourceCellCreationWillNotCreateMoreRowsThanItHasTopics]' started.
+2013-04-09 09:56:40.307 BrowseOverflow[3494:c07] *** Assertion failure in -[TopicTableDataSource tableView:cellForRowAtIndexPath:], /Users/mtt0123/Developer/BrowseOverflow/BrowseOverflowTests/TopicTableDataSource.m:40
+Test Case '-[TopicTableDataSourceTests testDataSourceCellCreationWillNotCreateMoreRowsThanItHasTopics]' passed (0.000 seconds).
+Test Case '-[TopicTableDataSourceTests testOneSectionInTheTableView]' started.
+2013-04-09 09:56:40.307 BrowseOverflow[3494:c07] *** Assertion failure in -[TopicTableDataSource tableView:numberOfRowsInSection:], /Users/mtt0123/Developer/BrowseOverflow/BrowseOverflowTests/TopicTableDataSource.m:30
+Test Case '-[TopicTableDataSourceTests testOneSectionInTheTableView]' passed (0.000 seconds).
+Test Case '-[TopicTableDataSourceTests testOneTableRowForOneTopic]' started.
+Test Case '-[TopicTableDataSourceTests testOneTableRowForOneTopic]' passed (0.000 seconds).
+Test Case '-[TopicTableDataSourceTests testTwoTableRowsForTwoTopics]' started.
+Test Case '-[TopicTableDataSourceTests testTwoTableRowsForTwoTopics]' passed (0.000 seconds).
+Test Suite 'TopicTableDataSourceTests' finished at 2013-04-09 01:56:40 +0000.
+Executed 6 tests, with 0 failures (0 unexpected) in 0.001 (0.001) seconds
+Test Suite 'TopicTableDelegateTests' started at 2013-04-09 01:56:40 +0000
+Test Case '-[TopicTableDelegateTests testDelegatePostsNotificationOnSelectionShowingWhichTopicWasSelected]' started.
+Test Case '-[TopicTableDelegateTests testDelegatePostsNotificationOnSelectionShowingWhichTopicWasSelected]' passed (0.000 seconds).
+Test Suite 'TopicTableDelegateTests' finished at 2013-04-09 01:56:40 +0000.
+Executed 1 test, with 0 failures (0 unexpected) in 0.000 (0.000) seconds
+Test Suite 'TopicTests' started at 2013-04-09 01:56:40 +0000
+Test Case '-[TopicTests testAddingAQuestionToTheList]' started.
+Test Case '-[TopicTests testAddingAQuestionToTheList]' passed (0.000 seconds).
+Test Case '-[TopicTests testForAListOfQuestions]' started.
+Test Case '-[TopicTests testForAListOfQuestions]' passed (0.000 seconds).
+Test Case '-[TopicTests testForInitiallyEmptyQuestionList]' started.
+Test Case '-[TopicTests testForInitiallyEmptyQuestionList]' passed (0.000 seconds).
+Test Case '-[TopicTests testLimitOfTwentyQuestions]' started.
+Test Case '-[TopicTests testLimitOfTwentyQuestions]' passed (0.000 seconds).
+Test Case '-[TopicTests testQuestionsAreListedChronologically]' started.
+Test Case '-[TopicTests testQuestionsAreListedChronologically]' passed (0.000 seconds).
+Test Case '-[TopicTests testThatTopicCanBeNamed]' started.
+Test Case '-[TopicTests testThatTopicCanBeNamed]' passed (0.000 seconds).
+Test Case '-[TopicTests testThatTopicExists]' started.
+Test Case '-[TopicTests testThatTopicExists]' passed (0.000 seconds).
+Test Case '-[TopicTests testThatTopicHasATag]' started.
+Test Case '-[TopicTests testThatTopicHasATag]' passed (0.000 seconds).
+Test Suite 'TopicTests' finished at 2013-04-09 01:56:40 +0000.
+Executed 8 tests, with 0 failures (0 unexpected) in 0.000 (0.001) seconds
+Test Suite '/Users/mtt0123/Library/Developer/Xcode/DerivedData/BrowseOverflow-ahgirjsvxpnhtectyorcrgptvaxm/Build/Products/Debug-iphonesimulator/BrowseOverflowTests.octest(Tests)' finished at 2013-04-09 01:56:40 +0000.
+Executed 182 tests, with 0 failures (0 unexpected) in 1.255 (1.273) seconds
+Test Suite 'All tests' finished at 2013-04-09 01:56:40 +0000.
+Executed 182 tests, with 0 failures (0 unexpected) in 1.255 (1.274) seconds
