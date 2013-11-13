@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>91CC6852-697D-4F01-AC73-9A07458E9230</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BrowseOverflow</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BBEB7673-46C1-41C7-A10A-A2AC325E57CD</key>
+		<string>https://github.com/zmzhuai/BrowseOverflow.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>BrowseOverflow.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BBEB7673-46C1-41C7-A10A-A2AC325E57CD</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/zmzhuai/BrowseOverflow.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BBEB7673-46C1-41C7-A10A-A2AC325E57CD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BBEB7673-46C1-41C7-A10A-A2AC325E57CD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BrowseOverflow</string>
+		</dict>
+	</array>
+</dict>
+</plist>
